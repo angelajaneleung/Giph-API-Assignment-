@@ -16,6 +16,10 @@
     font-family: 'Satisfy', cursive;
     margin-top: 80px;
 }
+.navbar-brand{
+    font-family: 'Satisfy', cursive;
+    color: black;
+}
 .container{
     background-color: #b3d7ff00;
 }
