@@ -1,0 +1,46 @@
+
+#background{
+    background-image: url("../images/air.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+* {
+	box-sizing: border-box;
+}
+.jumbotron{
+    background-color:#b3d7ff00;
+    text-align: center;
+    margin: 50px;
+    font-family: 'Satisfy', cursive;
+    margin-top: 80px;
+}
+.container{
+    background-color: #b3d7ff00;
+}
+img { 
+    height: 150px;
+    width: 150px;
+}
+.btn {  
+    margin: 3px;
+    background-color: #b3d7ff4f;
+    border-color: #fff;
+    margin-top: 30px;
+    margin-left: 15px;
+}
+#addGif{
+    margin: 2px;
+}
+.gifDiv{
+    float: left;
+    margin: 3px;
+}
+h2{
+    font-family: 'Satisfy', cursive;
+    margin-top: 15px;
+}
+p{
+    font-family: 'Satisfy', cursive;
+}
